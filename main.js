@@ -1,4 +1,4 @@
 import "./style.css";
 import dynamicRoleText from "./dynamicText";
 
-dynamicRoleText();
+dynamicRoleText(); gugfjhg
